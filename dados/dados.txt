@@ -1,0 +1,41 @@
+
+	Nome: ssss
+	CPF: ssss
+	RG: ssss
+	Contato: ssss
+
+	Rua: ssss
+	Bairro: ssss
+	Número: ssss
+	Cidade: ssss
+	
+	Nome: ssss
+	CPF: ssss
+	RG: ssss
+	Contato: ssss
+
+	Rua: ssss
+	Bairro: ssss
+	Número: ssss
+	Cidade: ssss
+	
+	Nome: ssss
+	CPF: ssss
+	RG: ssss
+	Contato: ssss
+
+	Rua: ssss
+	Bairro: ssss
+	Número: ssss
+	Cidade: ssss
+	
+	Nome: ssss
+	CPF: ssss
+	RG: ssss
+	Contato: ssss
+
+	Rua: ssss
+	Bairro: ssss
+	Número: ssss
+	Cidade: ssss
+	
